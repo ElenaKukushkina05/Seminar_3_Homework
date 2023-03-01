@@ -47,9 +47,7 @@ Git - это одна из реализаций распределённых с�
 
 [Работа с Macmillan Dictionary](https://www.macmillandictionary.com/)
 
-<<<<<<< HEAD
 [Работа с markdowm](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html)
-=======
 [Работа с markdowm](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html)
 
 ## *Работа со списками*
@@ -82,4 +80,3 @@ Git - это одна из реализаций распределённых с�
 
 > Что-то пишем
 >> Что-то пишем дальше
->>>>>>> lists
